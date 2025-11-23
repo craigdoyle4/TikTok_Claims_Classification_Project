@@ -126,16 +126,6 @@ These models significantly outperformed logistic regression and captured complex
 
 ---
 
-## 🚀 Future Work
-Potential extensions include:
-
-- Adding TF-IDF or BERT-based NLP features  
-- Deploying a web API for real-time classification  
-- Creating an interactive dashboard to explore predictions  
-- Implementing advanced hyperparameter tuning  
-
----
-
 ## 🛠️ Technologies Used
 - **Python:** pandas, numpy, seaborn, matplotlib  
 - **Machine Learning:** scikit-learn, xgboost  
@@ -143,10 +133,5 @@ Potential extensions include:
 - **Visualisation:** Tableau  
 - **Statistics:** SciPy  
 
----
 
-## 📄 Author
-**Your Name**  
-Data Analyst • Machine Learning Enthusiast  
-GitHub: *your-username*
 
